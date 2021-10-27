@@ -1,0 +1,47 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
+body {
+  background: #2b2d42;
+  font-size: 18px;
+  font-family: sans-serif;
+  text-align: center;
+  color: #2b2d42;
+}
+form {
+  background: #edf2f4;
+}
+h2 {
+  border: 0;
+  padding: 0;
+  margin: 5px;
+}
+.site-branding {
+  width: 80%;
+  height: 450px;
+  background: #8d99ae;
+  padding: 8px;
+  text-align: center;
+  display: block;
+  margin: 20px auto;
+  border: 10px outset #f1faee;
+}
+.site-title {
+  margin: 20px;
+}
+.site-title a {
+  font-size: 55px;
+  text-align: center;
+  text-decoration: none;
+  color: #2b2d42;
+}
+.site-subtitle {
+  font-family: monospace;
+  font-size: 20px;
+  color: #f1faee;
+  font-size: 20px;
+  border: none;
+  padding: none;
+}
